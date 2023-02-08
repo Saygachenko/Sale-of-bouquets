@@ -1,5 +1,3 @@
 ## Мой ютуб-канал
 
-- Это простая страница [посмотрите сами](https://www.youtube.com/channel/UCc47g7qsm-TzQEErfLjnFog)
-- Используется 2 цветовых оттенка
-- Располгается всего 1 кнопка по центру
+[посмотрите сами](https://www.youtube.com/channel/UCc47g7qsm-TzQEErfLjnFog)
